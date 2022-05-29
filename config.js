@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'wiw',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -98,21 +98,21 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com',
 		},
 		{
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.com.au/',
 		},
 		{
 			id: '5',
@@ -160,10 +160,7 @@ const CONFIG = {
 			icon: 'coffee',
 			id: '2',
 			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
+
 				{
 					name: 'Dribbble',
 					link: 'https://www.dribbble.com',
